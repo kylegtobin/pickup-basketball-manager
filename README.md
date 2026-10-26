@@ -2,7 +2,7 @@
 
 A web app that runs pickup basketball nights at my gym. Players sign themselves in on a courtside laptop, and the app keeps the line fair, sets up the next teams, runs the shootouts for open spots and shows everyone on their phones where they stand.
 
-**Status:** live at [pickupbasketballmanager.com](https://pickupbasketballmanager.com). It runs the Tuesday and Thursday summer games at my gym in Chicago. Try it with made-up players at [pickupbasketballmanager.com/?sample=1](https://pickupbasketballmanager.com/?sample=1). The code is private.
+**Status:** live at [pickupbasketballmanager.com](https://pickupbasketballmanager.com). It runs the Tuesday and Thursday summer games at my gym in Chicago. Try it with made-up players at [pickupbasketballmanager.com/?sample=1](https://pickupbasketballmanager.com/?sample=1). The code is public: [Pickup-Bball-Manager-MASTER](https://github.com/kylegtobin/Pickup-Bball-Manager-MASTER).
 
 <p>
   <img src="main.png" width="420" alt="The courtside screen mid-game: both teams, the score and clock, and the line with wait times">
